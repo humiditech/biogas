@@ -4,7 +4,7 @@
 #include <BlynkSimpleEsp32.h>
 #include "math.h"
 
-char auth[] = "7RnDo0c4XWX9swG-zTDrZEF_YRnuQw0Y";
+char auth[] = "9ApOBzPB7cdq64dKnlK-9wpspKWOAZiQ";
 
 const char * WIFI_SSID = "BISA";
 const char * WIFI_PASS = "bayu1234";
